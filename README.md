@@ -1,4 +1,4 @@
-# S3-folder-downloader (S3FD)
+# S3-downloader
 
 A multithreaded downloader for S3-compliant object storage, built with Python and [PySimpleGUI](https://www.pysimplegui.org).
 
